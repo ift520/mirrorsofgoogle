@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.18.0
+FROM k8s.gcr.io/kube-controller-manager:v1.18.3
 LABEL author=liufei
